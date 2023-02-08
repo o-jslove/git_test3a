@@ -30,4 +30,7 @@ public class Sort {
 		quickSort(a, start, middle-1);
 		quickSort(a, middle+1, end);
 	}
+	
+	//궁금한게 생겼어!
+	
 }
