@@ -14,6 +14,7 @@ public class Sort {
 	
 	static int partition(int[] a, int start, int end) {
 		//TODO: partition 알고리즘을 구현해야 함
+		System.out.println("안녕");
 		
 	}
 	
